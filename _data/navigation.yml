@@ -1,6 +1,8 @@
 links:
-- name: Portfolio
-  link: /portfolio/
+- name: Projects
+  link: /projects/
+- name: Resume
+  link: /resume/
 - name: Blog
   link: /blog/
 - name: About

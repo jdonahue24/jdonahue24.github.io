@@ -1,5 +1,5 @@
 ---
-title: Effective upselling techniques
+title: Effective gofers techniques
 categories:
   - sales
   - tips

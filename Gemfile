@@ -2,6 +2,9 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '4.0.0'
 
+gem 'tzinfo', '1.2.3'
+gem 'tzinfo-data', '1.2017.2'
+
 group :jekyll_plugins do
   gem 'jekyll-archives', '2.2.1'
   gem 'jekyll-feed', '0.12.1'
