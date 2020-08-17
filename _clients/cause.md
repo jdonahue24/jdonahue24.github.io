@@ -1,11 +1,10 @@
 ---
 name: Eagle Project
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
+subtitle: Outdoor Pavilion Restoration
 image_path: /images/clients/cause.jpg
 ---
 
-Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).
+<!-- Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).
 Increase the web presence of a not for profit or cause website with this configurable theme.
 
 CloudCannon was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
@@ -25,8 +24,8 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 ## Setup
 
-1. Add your site details in `_config.yml`.
-2. Add your Google Analytics to `_config.yml`.
+1. Add your site details in `_config.yml`. -->
+<!-- 2. Add your Google Analytics to `_config.yml`.
 3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
 ## Develop
@@ -79,4 +78,4 @@ This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) pl
 ### Company details
 
 * Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
+* Set in the *Data* / *Company* section. -->
