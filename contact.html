@@ -9,7 +9,7 @@ map:
   zoom: 13
 ---
 
-<section class="diagonal">
+<!-- <section class="diagonal">
 	<div class="container">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
 			<input type="hidden" name="_to" value="support@example.com" />
@@ -36,11 +36,8 @@ map:
 			<input type="submit" value="Send Message" />
 		</form>
 	</div>
-</section>
+</section> -->
 
-<section class="diagonal map">
-	<div id="gmap_canvas"></div>
-</section>
 
 <section class="diagonal">
 	<div class="container halves aligned-top">
@@ -48,12 +45,22 @@ map:
 			<h3>Address</h3>
 				<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 		</div>
+    <div>
+      <h3>Phone Number</h3>
+      <p><a href="tel:404-725-8933">(404) 725-8933</a></p>
+    </div>
 		<div>
 			<h3>Email</h3>
 			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
-		</div>
+		</div
+
 	</div>
 </section>
+
+<section class="diagonal map">
+	<div id="gmap_canvas"></div>
+</section>
+
 
 <script type="text/javascript">
 	window.mapData = {{ page.map | jsonify }};
