@@ -2,7 +2,7 @@
 title: Eagle Project
 name: Eagle Project
 subtitle: Outdoor Pavilion Restoration
-image_path: /images/clients/eagle_cover.jpg
+image_path: /assets/img/eagle_cover.JPG
 ---
 
 ## Summary
@@ -19,4 +19,3 @@ image_path: /images/clients/eagle_cover.jpg
 ## Fundraising
 <span
   style="color: black;"> Using a GoFundMe page to collect donations, I reached out to friends and family to secure donations, as well as secure a significant discount on the cost of my materials from Stanley and Hammond in Avon, CT. </span>
-  
