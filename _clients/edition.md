@@ -1,7 +1,7 @@
 ---
 name: DIY Electric Longboard
 subtitle: Custom Cruiser
-image_path: /assets/img/longb_cover.jpg
+image_path: /assets/img/longb1.jpg
 ---
 ## Background
 <span
