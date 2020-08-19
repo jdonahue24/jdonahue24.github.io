@@ -5,10 +5,10 @@ $pattern: "{{ site.baseurl }}/images/pattern.png";
 $screenshot-buttons: "{{ site.baseurl }}/images/screenshot-buttons.svg";
 
 //$brand-color: #1F2EBC;
-$brand-color: #3F67EB;
-$html-background-color: #EEE;
-$secondary-brand-color: #EE432E;
-$middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+$brand-color: #337CD8;
+$html-background-color: #337CD8;
+$secondary-brand-color: #3F67EB;
+// $middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
 
 // Breakpoints
 $tablet: "(min-width: 450px)";

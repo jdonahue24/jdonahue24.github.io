@@ -161,6 +161,7 @@ section {
 	display: flex;
 	flex-flow: wrap;
 	text-align: center;
+	color: $secondary-brand-color;
 	margin: 0 -20px;
 
 	li {
@@ -172,7 +173,7 @@ section {
 		margin: 20px;
 		border-radius: 5px;
 		text-align: left;
-		border: 1px solid $brand-color;
+		border: 1px solid $secondary-brand-color;
 		line-height: 0;
 
 		@media #{$tablet} {
