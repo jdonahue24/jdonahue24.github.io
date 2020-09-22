@@ -1,7 +1,7 @@
 ---
 name: Hardware Calculator
 subtitle: 3 Bit Multiplier
-image_path: /assets/img/multiplier_done.JPG
+image_path: /assets/img/multiplier_done.jpg
 ---
 ## Summary
 <span
