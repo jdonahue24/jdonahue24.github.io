@@ -173,7 +173,7 @@ section {
 		margin: 20px;
 		border-radius: 5px;
 		text-align: left;
-		border: 1px solid $secondary-brand-color;
+		border: 1.5px solid $secondary-brand-color;
 		line-height: 0;
 
 		@media #{$tablet} {
@@ -212,7 +212,7 @@ section {
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: rgba(0, 0, 0, 0.5);
+		background: rgba(0, 0, 0, 0.75);
 		padding: 20px;
 	}
 

@@ -6,8 +6,8 @@
       link: /projects/
     - name: Resume
       link: /resume/
-    # - name: About
-    #   link: /about/
+    - name: About
+      link: /about/
     - name: Contact
       link: /contact/
 - title: Social
@@ -16,3 +16,6 @@
       link: https://www.linkedin.com/in/johnrdonahue3/
       social_icon: LinkedIn
       new_window: true
+    - name: donahue.jo@northeastern.edu
+      link: /contact/
+      

@@ -4,13 +4,36 @@ title: Blog
 heading: Blog
 subtitle: Keep up with the latest news.
 ---
+<section class="diagonal alternate">
+	<div class="container halves">
+		<div>
+			<ul class="image-list">
+				<!-- <li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250" style="margin-bottom: 40px;"></li>
+				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li> -->
+				<li><img src="/assets/img/headshot_sn.jpg" width="300"></li>
+			</ul>
+		</div>
+		<div>
+			<p style="color: black" class="editable"> &nbsp &nbsp &nbsp I am currently a 3rd year at Northeastern University studying Mechanical Engineering and Physics, as well as pursuing a M.S. in Mechatronics. In my career, I strive to help develop the next tool that will push the world further, and continue to build my engineering intuition and technical skills. In my free time I enjoy cycling, camping, and working on DIY home improvement projects.</p>
+		</div>
+	</div>
+</section>
 
-<section class="diagonal">
-	<div class="text-container">
-	    <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
-		<ul class="blog-posts">
-			{% include list-posts.html posts=paginator.posts %}
-		</ul>
+<section class="diagonal patterned">
+	<div class="container halves">
+		<div>
+			<ul class="image-list">
+				<!-- <li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250" style="margin-bottom: 40px;"></li>
+				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li> -->
+				<li><img src="/assets/img/headshot_sn.jpg" width="300"></li>
+			</ul>
+		</div>
+		<div class="text-container">
+		    <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
+			<ul class="blog-posts">
+				{% include list-posts.html posts=paginator.posts %}
+			</ul>
+		</div>
 	</div>
 </section>
 
