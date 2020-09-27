@@ -2,11 +2,11 @@
 title: Home
 ---
 
-<section class="hero diagonal">
+<section class="heroes">
 	<div class="container">
-		<h2 class="editable"> John R. Donahue</h2>
-		<p class="subtext editable" style="font-size:22px"><i>Pursuing B.S. Mechanical Engineering and Physics & M.S. Concentrated in Mechatronics</i></p>
-	  <p class="subtext editable" style="font-size:22px">Currently applying for a Spring 2021 internship</p>
+		<h2 class="editable"><span style="background-color:rgba(0,0,0,0.15); font-size: 60px"><b> John R. Donahue</b></span></h2>
+		<p class="subtext editable" style="font-size:22px;""><span style="background-color: rgba(0,0,0,0.2)"><i>Pursuing B.S. Mechanical Engineering and Physics & M.S. Concentrated in Mechatronics</span></i></p>
+	  <p class="subtext editable" style="font-size:22px"><span style="background-color:rgba(0,0,0,0.52)">Currently applying for a Spring 2021 internship</span></p>
 		<p><a class="button alt" href="{{ site.baseurl }}/contact/">Reach Out</a></p>
 	</div>
 </section>
@@ -21,7 +21,7 @@ title: Home
 		<div>
 			<ul class="image-grid">
 				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
+					<li><img src="{% include relative-src.html src=client.image_path %}"></li>
 				{% endfor %}
 			</ul>
 		</div>
@@ -44,3 +44,5 @@ title: Home
 		</div>
 	</div>
 </section>
+
+<!-- <li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li> -->

@@ -32,6 +32,7 @@ image_path: /assets/img/eagle_cover.JPG
     ![](\assets\img\rebuild1.JPG)
 <span
     style="color: black;"> Hurricane ties were used to secure the rafters to the joists. We then staggered plywood across the rafters, two layers of tar paper, and then shingles. Final touch for the roof consisted of the metal flashings around the edges to seal everything in. </span>
+    
     ![](\assets\img\rafters.JPG)
 
 <span
