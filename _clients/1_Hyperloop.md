@@ -17,7 +17,7 @@ Your browser does not support the video tag.
 
 ## Background
 <span
-  style="color: black;">SpaceX and the Boring Company have run four student hyperloop competitions over the last Efive years in Hawthorne, CA. The challenge has been to design and build a fully functional hyperloop pod (minus the passenger compartment) that can travel the fastest in a 1200m vacuum tube and stop itself before the end wall. Paradigm Hyperloop is a multinational team consisting of students from Northeastern University, Memorial University of Newfoundland, and the College of the North Atlantic. </span>
+  style="color: black;">SpaceX and the Boring Company have run four student hyperloop competitions over the last five years in Hawthorne, CA. The challenge has been to design and build a fully functional hyperloop pod (minus the passenger compartment) that can travel the fastest in a 1200m vacuum tube and stop itself before the end wall. Paradigm Hyperloop is a multinational team consisting of students from Northeastern University, Memorial University of Newfoundland, and the College of the North Atlantic. </span>
 
   ![](\assets\img\pod_cutting.JPG)
 
