@@ -4,11 +4,9 @@ subtitle: DIY Renovations
 image_path: /assets/img/comm_ave.JPG
 ---
 ## Flooring
-<span
-  style="color: black;"> </span>
+
 - | -
 ![](\assets\img\home\zfbr_rotted.JPG) | ![](\assets\img\home\zfbr_done.JPG)
-
 
 
 - | -
@@ -17,15 +15,9 @@ image_path: /assets/img/comm_ave.JPG
 
 - | -
   ![](\assets\img\home\zf_layers.JPG) | ![](\assets\img\home\zf_done.JPG)
-
+</div>
 
 ## Wall
-<span
-  style="color: black;"> </span>
 
   - | -
 ![](\assets\img\home\wall_before.JPG) | ![](\assets\img\home\wall_done.JPG)
-
-
-<span
-  style="color: black;"></span>
