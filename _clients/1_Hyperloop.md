@@ -13,6 +13,8 @@ Your browser does not support the video tag.
     <source src="/assets/img/promo_vid.mp4" type="video/mp4"
   </video>
 </figure> -->
+<p align="center"><span style="color: MediumBlue; font-size: 100px;"><b> Paradigm Hyperloop </b></span></p>
+
 <p align="center"><iframe width="650" height="400" src="https://www.youtube.com/embed/qd7X839w1h0?rel=0&controls=0&autoplay=1&mute=1&modestbranding=1&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 ## Background
